@@ -12,12 +12,17 @@ body {
     font-family: 'Exo 2', sans-serif;
 }
 
+div {
+    border: 2px solid turquoise;
+}
+
 h1  {
     text-align: center;
     margin-top: 25px;
     margin-bottom: 15px;
     font-size: 38px;
-    letter-spacing: 6px;   
+    letter-spacing: 6px;
+    color: turquoise;
 }
 
 /* Loader */
